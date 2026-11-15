@@ -1,0 +1,17 @@
+# 새반나눔 Windows 다운로드
+
+초등학교 반편성 프로그램 **새반나눔 26 ver.** 설치 파일입니다. Windows 10·11용이며 관리자 권한 없이 설치됩니다.
+
+[최신 설치 파일 다운로드](https://github.com/moonsugugu/saebannanum-download/releases/latest/download/SaebanNanum_Setup.exe) · [26 ver. 릴리스](https://github.com/moonsugugu/saebannanum-download/releases/tag/v26)
+
+설치하면 시작 메뉴와 바탕 화면에 「새반나눔」이 생기고, Edge 프로그램 창으로 열립니다. 제어판 또는 Windows 설정의 설치된 앱에서 삭제할 수 있습니다. 설치 파일을 다시 실행하면 다시 설치(고치기) / 삭제 / 그만두기를 고를 수 있습니다.
+
+2026-11-16보다 먼저 설치하셨다면 위 설치 파일을 다시 실행해 「다시 설치(고치기)」를 눌러 주세요. 넣어 둔 자료는 그대로 남습니다.
+
+[사용법 영상](https://youtu.be/6NA0mPBXpGE) · [문수네집 콘텐츠사이트](https://moonsunezip.com)
+
+학생 정보는 서버로 보내지 않고 선생님 컴퓨터 안에서만 처리합니다. 설치 파일에는 학생 자료가 들어 있지 않습니다. 릴리스의 SHA256SUMS.txt에서 설치 파일의 검증값을 확인할 수 있습니다.
+
+설치 파일은 코드서명이 없어 설치할 때 Windows가 "알 수 없는 게시자" 경고를 띄울 수 있습니다. 파일 정보의 게시자는 문수네집 moonsune.zip입니다.
+
+만든 곳: 문수네집(moonsune.zip)
